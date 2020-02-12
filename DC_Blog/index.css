@@ -1,0 +1,46 @@
+h2, h3 {
+    display: inline-block;
+    margin-top: 45px;
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+h1, h2, h3, h4 {
+    font-family: sans-serif;
+}
+
+h3 {
+    color: gray;
+}
+
+img {
+    margin-left: 10%;
+}
+
+body {
+    background-color: rgba(211, 211, 211, 0.3);
+}
+
+#twitter {
+    box-sizing: content-box;
+    background-color: blue;
+    width: 200px;
+    color: white;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+#posts {
+    margin-left: 50%;
+    margin-right: 15px;
+}
+
+#date {
+    color: rgb(169,169,169);
+}
+
+#about {
+    margin-right: 15px;
+}
