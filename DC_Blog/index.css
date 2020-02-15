@@ -32,6 +32,10 @@ body {
     padding: 5px;
 }
 
+.footer {
+    padding-right: 10px;
+}
+
 #posts {
     margin-left: 50%;
     margin-right: 15px;
@@ -43,4 +47,13 @@ body {
 
 #about {
     margin-right: 15px;
+}
+
+#outer-div {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+#inner-div {
+    margin: 0 auto;
 }
