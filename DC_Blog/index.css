@@ -48,12 +48,3 @@ body {
 #about {
     margin-right: 15px;
 }
-
-#outer-div {
-    overflow-x: scroll;
-    overflow-y: hidden;
-}
-
-#inner-div {
-    margin: 0 auto;
-}
